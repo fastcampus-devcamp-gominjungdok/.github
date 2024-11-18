@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/260900f1-7c53-45af-a116-616ed3ab81ff" width="300" align="center" />
+<img src="https://github.com/user-attachments/assets/260900f1-7c53-45af-a116-616ed3ab81ff" width="300" />
 
-### "제발 통과 시켜줘. 왜 안 풀려. 도대채 시간복잡도를 어떻게 줄여❗"
+### "제발 통과 시켜줘. 왜 안 풀려. 도대체 시간복잡도를 어떻게 줄여❗"
 
 &nbsp;
 
