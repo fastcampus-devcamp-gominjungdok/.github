@@ -3,8 +3,8 @@
 패스트캠퍼스 김민태의 데브캠프 2기 알고리즘 스터디 **고민중독**에요.
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/260900f1-7c53-45af-a116-616ed3ab81ff" width="300" />
+  
+<img src="https://github.com/user-attachments/assets/e3b03dc9-0002-456f-8281-8e3d9a7e25a8" width="300" />
 
 ### "제발 통과 시켜줘. 왜 안 풀려. 도대체 시간복잡도를 어떻게 줄여❗"
 
